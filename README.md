@@ -1,1 +1,6 @@
 # sample
+
+# Contributor
+
+* nagaruri
+* imishinist
